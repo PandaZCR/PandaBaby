@@ -175,5 +175,5 @@ return` 「 *ADVERTISEMENT ${botName}* 」
 ──────────────────────────────
 ◯ *Wa.me/+${ownerNumbers}*
 ──────────────────────────────
-🔰 -----[「 *POWERED BY ${ownerName}* 」]----- 🔰`
+[「 *POWERED BY ${ownerName}* 」]`
 }
