@@ -35,10 +35,10 @@ _Warning,_
 *Panda BOT-X හි සමහර විධානයන් සිංහල හෝ ඉංග්‍රීසි භාෂාවෙන් ක්‍රියාත්මක කළ නොහැක. :(*
 
 *❏ Owner : Mr.Panda*
-*❏ Contact : Wa.me/+94701224462
+*❏ Contact : Wa.me/+94701224462*
 *❏ Bot name : Babybot BOT-X*
-	
-*\n\ntype : @verify*`
+
+type : @verify`
 }
 
 exports.baned = () => {
@@ -53,7 +53,16 @@ Type : ${prefix}owner`
 }
 
 exports.rediregis = () => {
-	return`*You have verified :)*`
+	return`*You have verified :)*
+	
+_Warning,_
+*Some of the commands in Panda BOT-X could not be executed in Sinhala or English. :(*
+
+*Panda BOT-X හි සමහර විධානයන් සිංහල හෝ ඉංග්‍රීසි භාෂාවෙන් ක්‍රියාත්මක කළ නොහැක. :(*
+
+*❏ Owner : Mr.Panda*
+*❏ Contact : Wa.me/+94701224462*
+*❏ Bot name : Babybot BOT-X*`
 }
 
 exports.stikga = () => {
